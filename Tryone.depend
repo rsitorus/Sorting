@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558293110 source:d:\cpp\tryone\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+
